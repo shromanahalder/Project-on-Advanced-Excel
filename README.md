@@ -1,4 +1,5 @@
-# Project-on-Advanced-Excel (Vrinda Store Data Analysis)
+# Project-on-Advanced-Excel 
+Vrinda Store Data Analysis in Excel
 
 # Full Project Link:
 https://1drv.ms/x/c/ecaa460c1aae1923/Ec0rQa8AQB1Erk1MBfzCr7EBsAmxVV14kBAKXNa6XYDg1Q?e=D5VpGD
