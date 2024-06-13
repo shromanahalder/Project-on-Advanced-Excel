@@ -1,7 +1,16 @@
 # Project-on-Advanced-Excel (Vrinda Store Data Analysis)
+
+# Full Project Link:
+https://1drv.ms/x/c/ecaa460c1aae1923/Ec0rQa8AQB1Erk1MBfzCr7EBsAmxVV14kBAKXNa6XYDg1Q?e=D5VpGD
+
 # Objective : 
 The objective of the project is to analyze sales data for Vrinda Store and create an annual sales report for 2022 to help improve business performance.
 
+# Process:
+- Data analysis and cleaning in Excel
+- Data processing involves performing calculations and data analysis.
+- Creating interactive dashboards in Excel
+- Creating interactive dashboard with slicer
 # Insights from vrinda store data analysis: 
 - Highest Sales and Orders occur in March. 
 - Orders that are delivered are most common, with Maharashtra, Karnataka, UP, Telangana, and Tamil Nadu being the top 5 states for sales.
@@ -12,5 +21,4 @@ The objective of the project is to analyze sales data for Vrinda Store and creat
 - Targeting specific women customers to increase sale. Focusing on women in the age group of 30-49 from Maharashtra , Karnataka and Uttar Pradesh.
 - Utilizing platforms like Amazon and Flipkart to offer ad coupon.
 
-# Full Project Link:
-https://1drv.ms/x/c/ecaa460c1aae1923/Ec0rQa8AQB1Erk1MBfzCr7EBsAmxVV14kBAKXNa6XYDg1Q?e=D5VpGD
+
