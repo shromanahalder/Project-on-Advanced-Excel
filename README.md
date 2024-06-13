@@ -9,7 +9,8 @@ The objective of the project is to analyze sales data for Vrinda Store and creat
 # Process:
 - Data analyze and Data cleaning
 - Use Pivot Table to analyze questions. 
-- Creating interactive dashboard 
+- Creating interactive dashboard
+  
 # Insights from vrinda store data analysis: 
 - Highest Sales and Orders occur in March. 
 - Orders that are delivered are most common, with Maharashtra, Karnataka, UP, Telangana, and Tamil Nadu being the top 5 states for sales.
