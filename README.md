@@ -7,10 +7,9 @@ https://1drv.ms/x/c/ecaa460c1aae1923/Ec0rQa8AQB1Erk1MBfzCr7EBsAmxVV14kBAKXNa6XYD
 The objective of the project is to analyze sales data for Vrinda Store and create an annual sales report for 2022 to help improve business performance.
 
 # Process:
-- Data analysis and cleaning in Excel
-- Data processing involves performing calculations and data analysis.
-- Creating interactive dashboards in Excel
-- Creating interactive dashboard with slicer
+- Data analyze and Data cleaning
+- Use Pivot Table to analyze questions. 
+- Creating interactive dashboard 
 # Insights from vrinda store data analysis: 
 - Highest Sales and Orders occur in March. 
 - Orders that are delivered are most common, with Maharashtra, Karnataka, UP, Telangana, and Tamil Nadu being the top 5 states for sales.
